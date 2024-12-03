@@ -1,0 +1,2 @@
+# PostGreSQL
+all sql queries
